@@ -1,1 +1,1 @@
-added badges (#45)
+Pass callbacks to validator (#7320)
