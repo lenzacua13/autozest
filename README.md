@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add new YOLOv8 OBB model metrics (#7379)
