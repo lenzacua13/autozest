@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add PR Summary step to Ultralytics Actions (#7675)
